@@ -9,7 +9,7 @@ These are programs that allow you to analyze the data read by Muse 2.
 
     [View code](https://github.com/Bagnis-Gabriele/Muse2-data_reading/blob/main/read_muse_data/read_muse_data.py)
 
-    This program reads the data of the four Muse sensors and prints them on the screen.
+    This program reads the data from the four Muse sensors and prints them on the screen.
 ***
 ***
 2. ### Animated graph showing the Muse 2 read values
@@ -28,6 +28,18 @@ These are programs that allow you to analyze the data read by Muse 2.
     [View code](https://github.com/Bagnis-Gabriele/Muse2-data_reading/blob/main/muse_recording_data_on_csv/muse_recording_data_on_csv.py)
 
     This program reads the data from the four Muse 2 sensors and saves it to a CSV file.
+***
+
+## NECESSARY PROGRAM
+***
+1. ### BLUEMUSE
+
+    `Program`
+
+    [View code](https://github.com/kowalej/BlueMuse)
+
+    This program can be downloaded from the linked Github repository, it allows you to connect to the muse using the bluetooth.
+Once connected, this program reads the device stream and makes it available for my prgrams.
 ***
 
 ## NECESSARY LIBRARY
