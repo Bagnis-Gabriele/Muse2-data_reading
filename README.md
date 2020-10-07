@@ -1,7 +1,7 @@
 # Muse 2 data reading
 These are programs that allow you to analyze the data read by Muse 2.
 
-## OUR PROGRAMS
+## MY PROGRAMS
 ***
 1. ### Reading Muse 2 data
 
